@@ -29,7 +29,7 @@ int main(){
     cout<<"The value of y is "<<y<<endl<<endl; //do not swapping because swap function nothing is returning //This will not swap a and b
     
     swapPointer(&x, &y); //x and y is called actual arguments
-    
+     
     //htis will swap a and b
     cout<<"After Swaping:"<<endl;
     cout<<"The value of x is "<<x<<endl; // swapping because I gave the address of x and y in swapPointer function
