@@ -28,5 +28,5 @@ int main(){
   printf( "_Bool                %lu\n" , sizeof( _Bool )              );
   printf( "\n" );
     
-    return 0;
+  return 0;
 }
