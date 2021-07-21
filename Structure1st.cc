@@ -1,7 +1,15 @@
+/*
+
+Three important points:
+-->Structure is a collection of dissimilar elements.
+-->Structure is a way to group variable.
+-->Structure is used to create data type.
+
+*/
 #include<bits/stdc++.h>
 using namespace std;
 
-struct employeeInformation
+struct employeeInformation  //global definition
 {
     int id;
     char favchar;
